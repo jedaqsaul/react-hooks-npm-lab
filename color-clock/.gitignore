@@ -1,0 +1,17 @@
+# Node modules (we NEVER commit this)
+node_modules/
+
+# Build output folder (we can rebuild it anytime)
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+
+# Environment variables (if you ever add them)
+.env
+
